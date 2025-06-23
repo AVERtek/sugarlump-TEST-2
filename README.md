@@ -1,2 +1,2 @@
-# sugarlump-TEST-2
-sugarlump TEST 2 version
+surgarlump TEST 2
+Augmented Reality
